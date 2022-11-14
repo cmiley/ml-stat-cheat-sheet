@@ -1,0 +1,199 @@
+Singular Value Decomposition (SVD)
+Maximum Likelihood Estimation (MLE)
+Bayesian Data Analysis (BDA)
+Principal Component Analysis (PCA)
+t-Distributed Stochastic Neighbor Embedding (t-SNE)
+Universal Manifold Approximation and Projection (UMAP)
+Agglomerative Clustering
+Decision Trees
+Random Forest (Mean Trees)
+Random Forest (Quantile Trees)
+Linear Regression
+Lasso Regression
+Factor Analysis
+Multivariate Multiple Regression
+Least Squares Estimation
+Analysis of Variance (ANOVA) & Multivariate Analysis of Variance (MANOVA)
+Fisher's Method
+Minkowski Metric
+Euclidean Distance
+Canberra Metric
+Czekanowski Coefficient
+Complete Linkage
+Average Linkage
+Ward's Hierarchical Clustering
+k-Means Clustering
+Multi-Dimensional Scaling
+Correspondence Analysis
+Bi-plots
+Procrustes Analysis
+Confidence Intervals
+Normalization
+Bernoulli Distribution
+Binomial Distribution
+Poisson Distribution
+Normal Distribution
+Log-normal Distribution
+Exponential Distribution
+Central Limit Theorem
+Hypothesis Testing
+Factorial Experiments
+Hyper-geometric Distribution
+Geometric Distribution
+Negative Binomial Distribution
+Multinomial Distribution
+Uniform Distribution
+Erlang Distribution
+Gamma Distribution
+Weibull Distribution
+Markov Chain
+Numerical Integration
+Importance Sampling
+Gibbs Sampler
+Metropolis and Metropolis-Hastings Algorithm
+Hamiltonian Monte Carlo
+Variational Inference
+Expectation Propagation
+Expectation Maximization
+Robust Inference
+Multiple Imputation
+Splines and Weighted Sums
+Gaussian Process Regression
+Latent Gaussian Process
+Finite Mixture Modeling
+Dirichlet Process Modeling
+Moore-Penrose Pseudoinverse
+Trace Operator
+Marginal Probability
+Conditional Probability
+Chain Rule for Probability
+Bayes Rule
+Underflow
+Overflow
+Hyperparameters
+Stochastic Gradient Descent (SGD)
+Deep Feedforward Networks
+Perceptron
+Back-Propagation
+Parameter Norm Penalty
+Regularization
+Noise Robustness
+Multitask Learning
+Early Stopping
+Bagging
+Ensemble Methods
+Dropout
+Adversarial Training
+Generative Adversarial Network (GAN)
+Tangent Distance, Prop, and Manifold Tangent
+Difference Between Learning and Optimization
+Convex Optimization
+Definition of Convex
+Convolutional Neural Network (CNN)
+Pooling
+Efficient Convolutions
+Recurrent Neural Network (RNN)
+Encoder-Decoder Sequence to Sequence
+Leaky Units
+Echo State Networks
+Long-Short Term Memory (LSTM) and Gated Units
+Sparse Coding
+Independent Component Analysis
+Autoencoders
+Representation Learning
+Log-Likelihood Gradient
+Contrastive Divergence
+Pseudolikelihood
+Partition Function
+Deep Generative Modeling
+Boltzmann Machines and Restricted Boltzmann Machines (RBM)
+Deep Belief Network
+Boosting
+Transformer
+Attention
+Multimodal
+Classification vs. Regression
+Hyperparameter Tuning
+Graph Neural Networks (GNN)
+Sampling
+k-Nearest Neighbors (KNN)
+Support Vector Machine (SVM)
+Levenshtein Distance
+Edit Distance
+Affine
+Operations that Preserve Convexity
+Quadratic Programming
+Perturbation and Sensitivity Analysis
+Newton's Method
+Cauchy-Schwarz Inequality
+Lower-Upper Decomposition
+Cholesky Factorization
+Operations Research
+Complimentary Slackness Theorem
+Integer Programming
+Linear Fractional Programming
+Linear Complimentarity Programming
+Lemke's Algorithm
+Autocorrelation
+Bilingual Evaluation Understudy (BLEU)
+Metric for Evaluation of Translation with Explicit Ordering (METEOR)
+Precision
+Recall
+F-Measure
+Kernel
+AdaBoost
+Shapley Additive Explanations (SHAP)
+Impurity Importance
+Cardinality
+Permutation Importance
+Underfitting
+Overfitting
+Tensor
+Quaternion
+Precision-Recall (PR) Curve
+Receiver Operating Characteristic (ROC) Curve
+Cross Entropy
+Kullback-Leibler (KL) Divergence
+Jensen-Shannon (JS) Divergence
+Shannon Information
+Shannon Entropy
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+Mean Absolute Error (MAE)
+Cross Validation
+Manifold
+Manifold Hypothesis
+Categorical Encoding
+Risk vs. Empirical Risk
+Empirical Risk Minimization
+Linear Discriminant Analysis
+Bayes Filter
+Kalman Filter
+Localization
+Interpolation
+Convolutional Filter
+Sigmoid
+Rectified Linear Unit (ReLU)
+Momentum
+Adam Optimizer
+Exploding Gradients
+Transfer Learning
+Popular CNNs
+Triplet Loss
+Siamese Model
+Gated Recurrent Unit (GRU)
+Few-Shot Learning
+U-Net
+Segmentation
+You Only Look Once (YOLO)
+Feature Pyramid Network
+Metric Learning
+Data Shift
+Model Shift
+Model Pruning
+Neural Architecture Search (NAS)
+Student-Teacher Distillation
+Auto Machine Learning (AutoML)
+Grid Search
+Bayes Search
+Graph Convolution
