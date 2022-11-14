@@ -1,4 +1,4 @@
-# ML/Stat Cheat Sheet
+# ML/Stat Cheat Sheet (IN PROGRESS)
 A cheat sheet for Machine Learning and Statistics topics. The purpose of this repo is to prepare for interviews and offer resources for initial problem statements. The format is structured to include a list of topics (not in an particular order) that are relevant to machine learning and statistical modeling. Each topic will include a short description, some resources related to the topic, and any tags that may be useful for those searching the page as an index.
 
 If you think something should change, whether there is an error in the topic description, another relevant topic to add, or something else, please create a pull request and I will add you as a contributor to that topic. 
