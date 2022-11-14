@@ -126,3 +126,5 @@ Contributors: Cayler Miley
 - Sampling
 - k-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
+- Levenshtein Distance
+- Edit Distance
