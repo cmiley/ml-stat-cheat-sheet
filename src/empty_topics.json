@@ -1,0 +1,1395 @@
+[
+    {
+        "title": "AdaBoost",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Adam Optimizer",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Adversarial Training",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Affine",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Agglomerative Clustering",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Analysis of Variance (ANOVA) & Multivariate Analysis of Variance (MANOVA)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Attention",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Auto Machine Learning (AutoML)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Autocorrelation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Autoencoders",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Average Linkage",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Back-Propagation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bagging",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bayes Filter",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bayes Rule",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bayes Search",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bayesian Data Analysis (BDA)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bernoulli Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bi-plots",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Bilingual Evaluation Understudy (BLEU)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Binomial Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Boltzmann Machines and Restricted Boltzmann Machines (RBM)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Boosting",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Canberra Metric",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Cardinality",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Categorical Encoding",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Cauchy-Schwarz Inequality",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Central Limit Theorem",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Chain Rule for Probability",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Cholesky Factorization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Classification vs. Regression",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Complete Linkage",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Complimentary Slackness Theorem",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Conditional Probability",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Confidence Intervals",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Contrastive Divergence",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Convex Optimization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Convolutional Filter",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Convolutional Neural Network (CNN)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Correspondence Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Cross Entropy",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Cross Validation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Czekanowski Coefficient",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Data Shift",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Decision Trees",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Deep Belief Network",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Deep Feedforward Networks",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Deep Generative Modeling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Definition of Convex",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Difference Between Learning and Optimization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Dirichlet Process Modeling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Dropout",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Early Stopping",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Echo State Networks",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Edit Distance",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Efficient Convolutions",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Empirical Risk Minimization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Encoder-Decoder Sequence to Sequence",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Ensemble Methods",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Erlang Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Euclidean Distance",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Expectation Maximization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Expectation Propagation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Exploding Gradients",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Exponential Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "F-Measure",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Factor Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Factorial Experiments",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Feature Pyramid Network",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Few-Shot Learning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Finite Mixture Modeling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Fisher's Method",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Gamma Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Gated Recurrent Unit (GRU)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Gaussian Process Regression",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Generative Adversarial Network (GAN)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Geometric Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Gibbs Sampler",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Graph Convolution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Graph Neural Networks (GNN)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Grid Search",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Hamiltonian Monte Carlo",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Hyper-geometric Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Hyperparameter Tuning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Hyperparameters",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Hypothesis Testing",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Importance Sampling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Impurity Importance",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Independent Component Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Integer Programming",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Interpolation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Jensen-Shannon (JS) Divergence",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Kalman Filter",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Kernel",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Kullback-Leibler (KL) Divergence",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Lasso Regression",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Latent Gaussian Process",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Leaky Units",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Least Squares Estimation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Lemke's Algorithm",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Levenshtein Distance",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Linear Complimentarity Programming",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Linear Discriminant Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Linear Fractional Programming",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Linear Regression",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Localization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Log-Likelihood Gradient",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Log-normal Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Long-Short Term Memory (LSTM) and Gated Units",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Lower-Upper Decomposition",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Manifold",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Manifold Hypothesis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Marginal Probability",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Markov Chain",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Maximum Likelihood Estimation (MLE)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Mean Absolute Error (MAE)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Mean Squared Error (MSE)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Metric Learning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Metric for Evaluation of Translation with Explicit Ordering (METEOR)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Metropolis and Metropolis-Hastings Algorithm",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Minkowski Metric",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Model Pruning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Model Shift",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Momentum",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Moore-Penrose Pseudoinverse",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multi-Dimensional Scaling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multimodal",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multinomial Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multiple Imputation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multitask Learning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Multivariate Multiple Regression",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Negative Binomial Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Neural Architecture Search (NAS)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Newton's Method",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Noise Robustness",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Normal Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Normalization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Numerical Integration",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Operations Research",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Operations that Preserve Convexity",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Overfitting",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Overflow",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Parameter Norm Penalty",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Partition Function",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Perceptron",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Permutation Importance",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Perturbation and Sensitivity Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Poisson Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Pooling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Popular CNNs",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Precision",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Precision-Recall (PR) Curve",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Principal Component Analysis (PCA)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Procrustes Analysis",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Pseudolikelihood",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Quadratic Programming",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Quaternion",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Random Forest (Mean Trees)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Random Forest (Quantile Trees)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Recall",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Receiver Operating Characteristic (ROC) Curve",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Rectified Linear Unit (ReLU)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Recurrent Neural Network (RNN)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Regularization",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Representation Learning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Risk vs. Empirical Risk",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Robust Inference",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Root Mean Squared Error (RMSE)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Sampling",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Segmentation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Shannon Entropy",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Shannon Information",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Shapley Additive Explanations (SHAP)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Siamese Model",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Sigmoid",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Singular Value Decomposition (SVD)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Sparse Coding",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Splines and Weighted Sums",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Stochastic Gradient Descent (SGD)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Student-Teacher Distillation",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Support Vector Machine (SVM)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Tangent Distance, Prop, and Manifold Tangent",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Tensor",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Trace Operator",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Transfer Learning",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Transformer",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Triplet Loss",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "U-Net",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Underfitting",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Underflow",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Uniform Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Universal Manifold Approximation and Projection (UMAP)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Variational Inference",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Ward's Hierarchical Clustering",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "Weibull Distribution",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "You Only Look Once (YOLO)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "k-Means Clustering",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "k-Nearest Neighbors (KNN)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    },
+    {
+        "title": "t-Distributed Stochastic Neighbor Embedding (t-SNE)",
+        "description": "",
+        "tags": [],
+        "equation": null,
+        "resources": []
+    }
+]
