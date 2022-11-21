@@ -64,10 +64,10 @@
     },
     {
         "title": "Automatic Machine Learning (AutoML)",
-        "description": "",
-        "tags": [],
+        "description": "Automatic Machine Learning is the process of automating the model training and prediction process. The purpose is to remove variables such as hyperparameter tuning and model selection. In some cases, it is possible to generate a model without labeled data, though this is still some form of clustering or similarity measure. AutoGluon is a useful open source package for AutoML. Additionally, Google, Amazon, Microsoft, etc. offer AutoML services that can operate over tabular data, images, free text, or a combination.",
+        "tags": ["automl", "autogluon", "machine learning"],
         "equation": null,
-        "resources": []
+        "resources": ["https://www.automl.org/automl/"]
     },
     {
         "title": "Average Linkage",
@@ -169,8 +169,8 @@
     },
     {
         "title": "Cardinality",
-        "description": "",
-        "tags": [],
+        "description": "Cardinality is the number of elements in a set. It is particularly useful in machine learning when describing the possible feature values that a set of samples can contain. For example, consider the context of a color feature: all hex color codes possible are greater than 16 million, but a representative sample may contain significantly less than that, especially if the feature can be considered categorical.",
+        "tags": ["mathematics", "machine learning"],
         "equation": null,
         "resources": []
     },
@@ -207,7 +207,7 @@
         "description": "",
         "tags": [],
         "equation": null,
-        "resources": []
+        "resources": ["https://www.maths.manchester.ac.uk/~higham/papers/high09c.pdf"]
     },
     {
         "title": "Cholesky Norm",
@@ -218,7 +218,7 @@
     },
     {
         "title": "Classification vs. Regression",
-        "description": "",
+        "description": "Classification is generally attempting to predict a discrete set of values as opposed to regression which attempts to predict a real value (a continuous set of values). Making this distinction on your labels is useful in model selection and evaluation of techniques for data transformation.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -295,28 +295,28 @@
     },
     {
         "title": "Cross Validation",
-        "description": "",
+        "description": "Cross validation is the process of validating a model on a dataset without a specified validation set. The process usually involves splitting the training dataset into \"folds\" where a portion of the training data remains as training data and another portion is used as a validation set. This allows for a model to use the entire training dataset for training. Some complexity is introduced in guaranteeing that predictions on the validation dataset are in fact out of sample. A property of cross validation is that every sample in the training dataset can get an out of sample prediction, which is useful for further analysis. Cross validation is generally more common on smaller datasets, where the luxury of a representative validation dataset cannot be achieved. Multiple models are produced via cross validation, so a complete model for production or test set prediction then becomes an ensemble of the models trained during cross validation, or a final model using the training process that produced the best model can be trained on the entire training dataset without validation.",
         "tags": [],
         "equation": null,
-        "resources": []
+        "resources": ["https://scikit-learn.org/stable/modules/cross_validation.html", "https://en.wikipedia.org/wiki/Cross-validation_(statistics)"]
     },
     {
         "title": "Czekanowski Coefficient",
         "description": "",
         "tags": [],
         "equation": null,
-        "resources": []
+        "resources": ["https://ag.arizona.edu/classes/rnr555/lecnotes/10.html"]
     },
     {
         "title": "Data Shift",
-        "description": "",
+        "description": "Data shift refers to the shift in the distribution of data over time, especially in reference to a prediction set after a model has been trained. It is especially important to monitor data shift when using models in production to verify that the training data is maintaining representation of the test population. Quantifying data shift is generally good evidence that can be used to determine how often a model should be re-trained and when data becomes stale for model training.",
         "tags": [],
         "equation": null,
         "resources": []
     },
     {
-        "title": "Decision Trees",
-        "description": "",
+        "title": "Decision Tree",
+        "description": "A decision tree is a simple deterministic model that can operate as a classifier or regressor depending on the implementation.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -372,7 +372,7 @@
     },
     {
         "title": "Early Stopping",
-        "description": "",
+        "description": "Early stopping is a process used during model training, usually for gradient-based models, that stops model training prior to a threshold completion to prevent overfitting. A common approach is to use a stopping parameter based on a threshold for validation loss, for example only training 3 epochs after validation loss stops decreasing by a certain magnitude. Another approach is as a hyperparameter for a simple model, such as setting a max depth for the decision trees used in a random forest.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -596,7 +596,7 @@
     },
     {
         "title": "Hyperparameters",
-        "description": "",
+        "description": "Hyperparameters are meta parameters related to model training - often selected by the modeler via intuition. Examples include learning rate, selection of the model itself, dropout, etc. Automatic tuning of hyperparameters is also common in AutoML or during the process of iterative model training, usually by constraining the hyperparameters via a function or range.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -638,7 +638,7 @@
     },
     {
         "title": "Interpolation",
-        "description": "",
+        "description": "Interpolation is the process of interpreting missing data by assuming a function that matches data points. A common approach is to use linear interpolation for time series data points. This operates on a core assumption that the data used is continuous in nature.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -820,14 +820,14 @@
     },
     {
         "title": "Mean Absolute Error (MAE)",
-        "description": "",
+        "description": "Mean absolute error is an error metric that is calculated by taking the absolute difference between prediction and label, then computing the mean of the errors.",
         "tags": [],
         "equation": null,
         "resources": []
     },
     {
         "title": "Mean Squared Error (MSE)",
-        "description": "",
+        "description": "Mean squared error is an error metric that is calculated by taking the squared difference between prediction and label, then computing the mean of the errors. This penalizes larger magnitude errors much more harshly than MAE.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -897,7 +897,7 @@
     },
     {
         "title": "Multimodal",
-        "description": "",
+        "description": "Multimodal is a descriptor that means the model or dataset has multiple \"modes\" (sometimes also referred to as domains). A simple example is a dataset which contains samples with both images and free text. A multimodal model is usually a fusion of state of the art techniques on each mode, for example a CNN-based approach on image data and a transformer-based approach on free text data, which are then fused (concatenated output in the simplest case) and a further model is used to produce a complete prediction per sample.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -939,7 +939,7 @@
     },
     {
         "title": "Neural Architecture Search (NAS)",
-        "description": "",
+        "description": "A neural architecture search is the process of determining a potentially ideal architecture for a neural network. The process usually involves searching over a space constructed of possible neural building blocks (such as different types of neural network layers) and a stopping parameter. This process is generally computationally expensive since the search space is infinite and each iteration requires training a model. To decrease computation time, candidate models are trained very quickly and used for future iterations in a Bayesian or Evolutionary computing fashion based on their performance.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -995,7 +995,7 @@
     },
     {
         "title": "Overfitting",
-        "description": "",
+        "description": "Overfitting is a term used to describe when a model no longer generalizes to out of sample predictions because it has too heavily weighted performance on the training data. Overfitting reduction is a core principle in machine learning, most simply achieved by using a holdout set of of samples for validation, which the model is not directly trained on but is used to evaluate model performance during training.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -1072,7 +1072,7 @@
     },
     {
         "title": "Precision-Recall (PR) Curve",
-        "description": "",
+        "description": "A precision-recall curve is a graph used for evaluation of thresholds for discretizing predictions. It is a piece-wise function that demonstrates the trade-off between precision and recall on a set of data by varying the threshold at which a continuous prediction is bucketed into a binary classification. This is a useful measure for attempting to achieve a target precision or recall based on requirements for the model performance in production.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -1142,9 +1142,9 @@
     },
     {
         "title": "Rectified Linear Unit (ReLU)",
-        "description": "",
+        "description": "A rectified linear unit is a common non-linear activation function used between feed forward network layers. Its most important property is that it only produces non-negative values and otherwise does not change the input.",
         "tags": [],
-        "equation": null,
+        "equation": "ReLU(x) = max(0, x)",
         "resources": []
     },
     {
@@ -1233,7 +1233,7 @@
     },
     {
         "title": "Sigmoid",
-        "description": "",
+        "description": "Sigmoid is a common non-linear activation function that constrains values to be valued between 0 and 1 inclusively. It is most common in binary classification to constrain continuous values to an easily thresholded value to produce a legitimate classification prediction. The output of a sigmoid is often referred to as the probability that a prediction belongs in a classification bucket, but it is not a true probability - it is instead a pseudoprobability because it is produced by the model output rather than via traditional probabilistic means.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -1275,7 +1275,7 @@
     },
     {
         "title": "Student-Teacher Distillation",
-        "description": "",
+        "description": "Student-teacher distillation is the process of using a trained model as a \"teacher\" to constrain the training of a new model, the \"student\" in this case. The purpose is to have the student model produce similar (or even identical) outputs as the teacher model without maintaining the architecture (or even the same model selection) as the teacher. It is commonly used to transfer model performance to a new model type or reduce the physical disk size of a deep model. A useful example is training a complete model using a large dataset and constraining the student to be less than the size of an edge device that will use the model in production, such as a model that is used for offline predictions on a phone.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -1296,10 +1296,10 @@
     },
     {
         "title": "Tensor",
-        "description": "",
-        "tags": [],
+        "description": "A tensor is a generalized form of a multi-dimensional matrix. It is useful in machine learning due to the high-dimensional data and spaces often used for data visualization and model representation.",
+        "tags": ["mathematics"],
         "equation": null,
-        "resources": []
+        "resources": ["https://mathworld.wolfram.com/Tensor.html"]
     },
     {
         "title": "Trace Operator",
@@ -1310,7 +1310,7 @@
     },
     {
         "title": "Transfer Learning",
-        "description": "",
+        "description": "Transfer learning is the process of using a previously trained model on a different set of data and using it as an initialization for training on a new set of data. This is extremely common for image datasets, where the original dataset was vastly large and it can be assumed that the core structure of the model has a good understanding of ALL images that is easily generalizable to a specific subset of images. A common approach is to fine-tune a model by freezing layers or using much smaller learning rate during training on the target dataset.",
         "tags": [],
         "equation": null,
         "resources": []
@@ -1338,7 +1338,7 @@
     },
     {
         "title": "Underfitting",
-        "description": "",
+        "description": "Underfitting is a term used for describing when a model is incapable of learning a representation of the sample dataset. A simple example is predicting the mean value of a label set for all predictions. While performance may be reasonable, nothing is learned and there is no possibility for generalization. In some cases, this can be useful for selecting particularly simple models that fit for certain datasets.",
         "tags": [],
         "equation": null,
         "resources": []

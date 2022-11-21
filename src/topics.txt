@@ -5,7 +5,7 @@ Principal Component Analysis (PCA)
 t-Distributed Stochastic Neighbor Embedding (t-SNE)
 Universal Manifold Approximation and Projection (UMAP)
 Agglomerative Clustering
-Decision Trees
+Decision Tree
 Random Forest (Mean Trees)
 Random Forest (Quantile Trees)
 Linear Regression
@@ -193,7 +193,9 @@ Model Shift
 Model Pruning
 Neural Architecture Search (NAS)
 Student-Teacher Distillation
-Auto Machine Learning (AutoML)
+Automatic Machine Learning (AutoML)
 Grid Search
 Bayes Search
 Graph Convolution
+Spectral Decomposition
+Laplacian/Laplace Transform
